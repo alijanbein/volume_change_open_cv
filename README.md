@@ -74,4 +74,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - Special thanks to the developers and contributors of OpenCV, MediaPipe, and PyAutoGUI for their invaluable work in the open-source community.
 
 ---
-Please replace `https://your-image-url.com` with the URL of the image you want to use for the hand volume control. If you have the image locally, you can use relative paths to display the image in the README. Additionally, consider adding more details, such as setup instructions and potential improvements, based on your specific use case and audience.

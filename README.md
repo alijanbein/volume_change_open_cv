@@ -25,7 +25,9 @@ You can install the required Python packages using pip:
 2. Make sure you have a webcam connected to your computer.
 3. Open a terminal or command prompt and navigate to the folder containing the `hand_volume_control.py` file.
 4. Run the Python script:
-
+```bash
+python hand_volume_control.py
+```
   
 5. The webcam window will open, showing the video feed with hand landmarks drawn on it.
 

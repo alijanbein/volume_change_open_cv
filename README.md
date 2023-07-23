@@ -1,6 +1,7 @@
 # Hand Volume Control using Python and OpenCV
 
-![Hand Volume Control](https://your-image-url.com)
+![Hand Volume Control](./images/up.png)
+![Hand Volume Control](./images/low.png)
 
 ## Introduction
 
